@@ -1,4 +1,4 @@
-# Vikrant_Singh_CSE1_SkillScholar
+# 🎓 SkillScholar – Scholarship Discovery Platform  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
 <!--[![Contributors](https://img.shields.io/github/contributors/yourusername/SkillScholar)](https://github.com/yourusername/SkillScholar/graphs/contributors) --> 
