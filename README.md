@@ -16,7 +16,7 @@ SkillScholar is an **Scholarship discovery platform** that helps students find a
 ✅ **Resources & Tips** – Scholarship application templates and essay-writing assistance  
 
 ---
-# Team Details
+## Team Details
 
 Vikrant Singh (2301010028)
 
